@@ -24,5 +24,6 @@
 <div align="center">
   <a href="https://github.com/n3ur0cr45h/Kubernetes"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/></a>  
   <a href="https://github.com/n3ur0cr45h/Grafana"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a>  
+  <a href="https://github.com/n3ur0cr45h/MS-DOS"> <img src="https://go-skill-icons.vercel.app/api/icons?i=htmx"/></a>  
 <br>
 </div>
