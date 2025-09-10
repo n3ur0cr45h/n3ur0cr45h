@@ -1,9 +1,9 @@
-<br>
+  
 
 <div align="center">
   <img src="https://github.com/n3ur0cr45h/n3ur0cr45h/blob/main/computer.gif?raw=true" width="50"" />    
   
-<br>
+  
 
 ----
 
@@ -19,7 +19,7 @@
 
 ----
 
-<br>
+  
 </div>
 
 <div align="center">
@@ -27,5 +27,5 @@
   <a href="https://github.com/n3ur0cr45h/Kubernetes"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/></a>  
   <a href="https://github.com/n3ur0cr45h/Grafana"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a>  
   <a href="https://github.com/n3ur0cr45h/MS-DOS"> <img src="https://github.com/n3ur0cr45h/Icones/blob/main/MSDOS.jpg" width=45/></a>  
-<br>
+  
 </div>
