@@ -29,4 +29,5 @@
   <a href="https://github.com/lndrprs/Grafana"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a>  
   <a href="https://github.com/lndrprs/Windows"> <img src="https://skillicons.dev/icons?i=windows" width=45/></a>  
   <a href="https://github.com/lndrprs/Azure"> <img src="https://skillicons.dev/icons?i=azure" width=45/></a>  
+  <a href="https://github.com/lndrprs/Openshift"> <img src="https://skillicons.dev/icons?i=openshift" width=45/></a>  
 </div>
