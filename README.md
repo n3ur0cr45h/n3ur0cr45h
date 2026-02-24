@@ -34,4 +34,5 @@
   <a href="https://github.com/lndrprs/Windows"> <img src="https://skillicons.dev/icons?i=windows"/></a>  
   <a href="https://github.com/lndrprs/Azure"> <img src="https://skillicons.dev/icons?i=azure"/></a>  
   <a href="https://github.com/lndrprs/GitHub"> <img src="https://skillicons.dev/icons?i=github"/></a>  
+  <a href="https://github.com/lndrprs/GitHub-Actions"> <img src="https://skillicons.dev/icons?i=githubactions"/></a>  
 </div>
