@@ -23,17 +23,5 @@
 </div>
 
 <div align="center">
-  <!-- <a href="https://github.com/lndrprs/Docker"> <img src="https://go-skill-icons.vercel.app/api/icons?i=docker"/></a>  
-  #<a href="https://github.com/lndrprs/Kubernetes"> <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes"/></a>  
-  #<a href="https://github.com/lndrprs/OpenShift"> <img src="https://go-skill-icons.vercel.app/api/icons?i=openshift"/></a>
-  #<a href="https://github.com/lndrprs/ArgoCD"> <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/argo-cd.png" width=37/></a>
-  width=78/></a>
-  <br>
-  #<a href="https://github.com/lndrprs/ElasticStack"> <img src="https://go-skill-icons.vercel.app/api/icons?i=elasticsearch"/></a>  
-  #<a href="https://github.com/lndrprs/Grafana"> <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana"/></a>  -->
-  <a href="https://github.com/lndrprs/Windows"> <img src="https://skillicons.dev/icons?i=windows"/></a>  
-  <a href="https://github.com/lndrprs/Azure"> <img src="https://skillicons.dev/icons?i=azure"/></a>  
-  <a href="https://github.com/lndrprs/GitHub"> <img src="https://skillicons.dev/icons?i=github"/></a>  
-  <a href="https://github.com/lndrprs/GitHub-Actions"> <img src="https://skillicons.dev/icons?i=githubactions"/></a>  
-  <a href="https://github.com/lndrprs/GitHub-Copilot"> <img src="https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png"  width=78/>
+
 </div>
